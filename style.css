@@ -23,7 +23,11 @@ li {
     clear: both;
 }
 body{
-    background-color: #7d4683
+    background-color: #ffb429
 }
 
 .buttonLeft {margin-left:50px;} 
+
+footer { 
+    display: inline-block
+}
